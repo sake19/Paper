@@ -1,9 +1,17 @@
 # Fdb version 3
+<<<<<<< HEAD:Paper/Smart_Farm.fdb_latexmk
 ["pdflatex"] 1638841443 "c:/Users/Minwoo/Workspace_Latex/Paper/Smart_Farm.tex" "Smart_Farm.pdf" "Smart_Farm" 1638841444
   "../Figure/Frame_format.pdf" 1637801232 97463 1e332bb690c123cc023ab19682ed00e1 ""
   "Smart_Farm.aux" 1638841444 861 9eb042bb6747152e2966ed05da67b838 "pdflatex"
   "Smart_Farm.out" 1638841443 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "c:/Users/Minwoo/Workspace_Latex/Paper/Smart_Farm.tex" 1638841442 1987 a733f56844f511d3f76203684ad18c22 ""
+=======
+["pdflatex"] 1638777944 "c:/Users/Minwoo/Workspace_Latex/Smart_Farm.tex" "Smart_Farm.pdf" "Smart_Farm" 1638777946
+  "Figure/Frame_format.pdf" 1637801232 97463 1e332bb690c123cc023ab19682ed00e1 ""
+  "Smart_Farm.aux" 1638777945 861 59842035b2a2d379c4637a0e1228e3a4 "pdflatex"
+  "Smart_Farm.out" 1638777945 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "c:/Users/Minwoo/Workspace_Latex/Smart_Farm.tex" 1638777944 4986 4ea270ebb8a1d5c3941ab677fe671a19 ""
+>>>>>>> f833e70 (개발보고서, 개발방향분석 분리):Smart_Farm.fdb_latexmk
   "c:/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1637803096 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1637801909 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1637801909 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -159,6 +167,12 @@
   "c:/texlive/2021/texmf.cnf" 1637805773 713 baa45e065482d44c4cd81b98ef72c63b ""
   (generated)
   "Smart_Farm.aux"
+<<<<<<< HEAD:Paper/Smart_Farm.fdb_latexmk
   "Smart_Farm.log"
   "Smart_Farm.out"
   "Smart_Farm.pdf"
+=======
+  "Smart_Farm.pdf"
+  "Smart_Farm.log"
+  "Smart_Farm.out"
+>>>>>>> f833e70 (개발보고서, 개발방향분석 분리):Smart_Farm.fdb_latexmk
