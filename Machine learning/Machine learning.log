@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.25)  7 DEC 2021 15:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.25)  9 DEC 2021 11:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -353,44 +353,100 @@ pdfTeX warning: pdflatex.exe (file ../Figure/Figure_2.pdf): PDF inclusion: found
 <../Figure/Figure_2.pdf, id=5, 837.07126pt x 126.79771pt>
 File: ../Figure/Figure_2.pdf Graphic file (type pdf)
 <use ../Figure/Figure_2.pdf>
-Package pdftex.def Info: ../Figure/Figure_2.pdf  used on input line 34.
+Package pdftex.def Info: ../Figure/Figure_2.pdf  used on input line 36.
 (pdftex.def)             Requested size: 360.0pt x 54.53162pt.
-c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:52: Missing $ inserted.
-<inserted text> 
-                $
-l.52 
-     
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
 
-c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:52: Display math should end with $$.
-<to be read again> 
-                   \tex_par:D 
-l.52 
-     
-The `$' that I just saw supposedly matches a previous `$$'.
-So I shall assume that you typed `$$' both times.
+Overfull \hbox (11.36066pt too wide) in paragraph at lines 29--40
+\OT1/cmr/m/n/10.95 CNN\LUC/nanummj/m/n/10.95/c7 t \LUC/nanummj/m/n/10.95/b3 Ä\LUC/nanummj/m/n/10.95/c7 …\LUC/nanummj/m/n/10.95/b4 ^^X\LUC/nanummj/m/n/10.95/ba t\LUC/nanummj/m/n/10.95/c1 ^^\ \LUC/nanummj/m/n/10.95/d5 i\LUC/nanummj/m/n/10.95/c1 1\LUC/nanummj/m/n/10.95/ac ñÄ\LUC/nanummj/m/n/10.95/ce 5\OT1/cmr/m/n/10.95 (Con-vo-lu-tional layer)\LUC/nanummj/m/n/10.95/ac ü \LUC/nanummj/m/n/10.95/d4 €\LUC/nanummj/m/n/10.95/b9 Á\LUC/nanummj/m/n/10.95/ac Ä\LUC/nanummj/m/n/10.95/ce 5\OT1/cmr/m/n/10.95 (Poolling layer)
+ []
 
 [1
 
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../Figure/Figure_1.pdf>]
-c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:54: Missing $ inserted.
+{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <../Figure/Figure_1.pdf> <../Figure/Figure_2.pdf>]
+
+LaTeX Warning: Reference `Fig.3' on page 2 undefined on input line 46.
+
+
+
+pdfTeX warning: pdflatex.exe (file ../Figure/Figure_3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../Figure/Figure_3.pdf, id=53, 368.95943pt x 476.16594pt>
+File: ../Figure/Figure_3.pdf Graphic file (type pdf)
+<use ../Figure/Figure_3.pdf>
+Package pdftex.def Info: ../Figure/Figure_3.pdf  used on input line 48.
+(pdftex.def)             Requested size: 360.0pt x 464.62685pt.
+c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:49: Undefined control sequence.
+l.49     \hlinefill
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+
+pdfTeX warning: pdflatex.exe (file ../Figure/Figure_4.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../Figure/Figure_4.pdf, id=54, 663.72166pt x 177.71895pt>
+File: ../Figure/Figure_4.pdf Graphic file (type pdf)
+<use ../Figure/Figure_4.pdf>
+Package pdftex.def Info: ../Figure/Figure_4.pdf  used on input line 54.
+(pdftex.def)             Requested size: 360.0pt x 96.39253pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+
+pdfTeX warning: pdflatex.exe (file ../Figure/Figure_5.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../Figure/Figure_5.pdf, id=55, 839.7694pt x 371.28813pt>
+File: ../Figure/Figure_5.pdf Graphic file (type pdf)
+<use ../Figure/Figure_5.pdf>
+Package pdftex.def Info: ../Figure/Figure_5.pdf  used on input line 61.
+(pdftex.def)             Requested size: 360.0pt x 159.16922pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:75: Missing $ inserted.
 <inserted text> 
                 $
-l.54 
+l.75 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:54: Display math should end with $$.
+c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:75: Display math should end with $$.
 <to be read again> 
                    \tex_par:D 
-l.54 
+l.75 
      
 The `$' that I just saw supposedly matches a previous `$$'.
 So I shall assume that you typed `$$' both times.
 
-[2 <../Figure/Figure_2.pdf>] (./Machine learning.aux)
+c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:77: Missing $ inserted.
+<inserted text> 
+                $
+l.77 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Minwoo/Workspace_Latex/Machine learning/Machine learning.tex:77: Display math should end with $$.
+<to be read again> 
+                   \tex_par:D 
+l.77 
+     
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+[2] [3 <../Figure/Figure_3.pdf>] [4 <../Figure/Figure_4.pdf> <../Figure/Figure_5.pdf>] (./Machine learning.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 
 Package rerunfilecheck Warning: File `"Machine learning".out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
@@ -398,21 +454,21 @@ Package rerunfilecheck Warning: File `"Machine learning".out' has changed.
 
 Package rerunfilecheck Info: Checksums for `"Machine learning".out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  2AFF0055587B4A114660A8F5350F30DF;1225.
+(rerunfilecheck)             After:  091B2865118576E82935F8734D6B1F9E;1357.
  ) 
 Here is how much of TeX's memory you used:
- 9423 strings out of 478353
- 148402 string characters out of 5852100
- 447906 words of memory out of 5000000
- 27357 multiletter control sequences out of 15000+600000
- 429487 words of font info for 116 fonts, out of 8000000 for 9000
+ 9465 strings out of 478353
+ 149295 string characters out of 5852100
+ 448906 words of memory out of 5000000
+ 27387 multiletter control sequences out of 15000+600000
+ 431554 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,63p,480b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbce.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb>
-Output written on "Machine learning.pdf" (2 pages, 2410527 bytes).
+ 60i,7n,63p,794b,459s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbe.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbce.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb>
+Output written on "Machine learning.pdf" (4 pages, 2880848 bytes).
 PDF statistics:
- 356 PDF objects out of 1000 (max. 8388607)
- 217 compressed objects within 3 object streams
- 14 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 408 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
