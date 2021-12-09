@@ -1,0 +1,2 @@
+\beamer@sectionintoc {2}{전체구조}{3}{0}{1}
+\beamer@sectionintoc {3}{합성곱계층}{4}{0}{2}

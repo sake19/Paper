@@ -1,0 +1,12 @@
+\frametitle{코드를 넣은 슬라이드}
+	다음은 Hello World! 프로그램이다.
+	c/pyg.sh hello.c 를 하면 나오는 내용을 여기 붙이면 되는 것임.
+\begin{Verbatim}[commandchars=\\\{\}]
+\PY{c+cp}{#}\PY{c+cp}{include <stdio.h>}
+
+\PY{k+kt}{int} \PY{n+nf}{main}\PY{p}{(}\PY{p}{)}
+\PY{p}{\PYZob{}}
+        \PY{n}{fprintf}\PY{p}{(} \PY{n}{stderr}\PY{p}{,} \PY{l+s}{"}\PY{l+s}{Program terminated with error!}\PY{l+s+se}{\PYZbs{}n}\PY{l+s}{"} \PY{p}{)}\PY{p}{;}
+        \PY{k}{return} \PY{l+m+mi}{1}\PY{p}{;}
+\PY{p}{\PYZcb{}}
+\end{Verbatim}
