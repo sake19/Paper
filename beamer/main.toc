@@ -1,2 +1,3 @@
 \beamer@sectionintoc {2}{전체구조}{3}{0}{1}
 \beamer@sectionintoc {3}{합성곱계층}{4}{0}{2}
+\beamer@sectionintoc {4}{풀링계층}{13}{0}{3}

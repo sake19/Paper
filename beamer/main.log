@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.25)  9 DEC 2021 15:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.11.25)  9 DEC 2021 19:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -823,7 +823,7 @@ File: lucnanumgt.fd 2013/02/12 v0.1 Nanum Gothic font definitions
 ]
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_1.pdf, id=111, 835.04771pt x 133.87917pt>
+<../Figure/Figure_1.pdf, id=119, 835.04771pt x 133.87917pt>
 File: ../Figure/Figure_1.pdf Graphic file (type pdf)
 <use ../Figure/Figure_1.pdf>
 Package pdftex.def Info: ../Figure/Figure_1.pdf  used on input line 57.
@@ -831,7 +831,7 @@ Package pdftex.def Info: ../Figure/Figure_1.pdf  used on input line 57.
 
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_2.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_2.pdf, id=112, 837.07126pt x 126.79771pt>
+<../Figure/Figure_2.pdf, id=120, 837.07126pt x 126.79771pt>
 File: ../Figure/Figure_2.pdf Graphic file (type pdf)
 <use ../Figure/Figure_2.pdf>
 Package pdftex.def Info: ../Figure/Figure_2.pdf  used on input line 57.
@@ -843,7 +843,7 @@ Package pdftex.def Info: ../Figure/Figure_2.pdf  used on input line 57.
 ]
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_3.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_3.pdf, id=193, 368.95943pt x 476.16594pt>
+<../Figure/Figure_3.pdf, id=201, 368.95943pt x 476.16594pt>
 File: ../Figure/Figure_3.pdf Graphic file (type pdf)
 <use ../Figure/Figure_3.pdf>
 Package pdftex.def Info: ../Figure/Figure_3.pdf  used on input line 86.
@@ -853,7 +853,7 @@ Package pdftex.def Info: ../Figure/Figure_3.pdf  used on input line 86.
  <../Figure/Figure_3.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_4.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_4.pdf, id=224, 663.72166pt x 177.71895pt>
+<../Figure/Figure_4.pdf, id=232, 663.72166pt x 177.71895pt>
 File: ../Figure/Figure_4.pdf Graphic file (type pdf)
 <use ../Figure/Figure_4.pdf>
 Package pdftex.def Info: ../Figure/Figure_4.pdf  used on input line 94.
@@ -863,7 +863,7 @@ Package pdftex.def Info: ../Figure/Figure_4.pdf  used on input line 94.
  <../Figure/Figure_4.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_5.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_5.pdf, id=256, 839.7694pt x 371.28813pt>
+<../Figure/Figure_5.pdf, id=264, 839.7694pt x 371.28813pt>
 File: ../Figure/Figure_5.pdf Graphic file (type pdf)
 <use ../Figure/Figure_5.pdf>
 Package pdftex.def Info: ../Figure/Figure_5.pdf  used on input line 102.
@@ -873,7 +873,7 @@ Package pdftex.def Info: ../Figure/Figure_5.pdf  used on input line 102.
  <../Figure/Figure_5.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_6.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_6.pdf, id=291, 833.02415pt x 413.10435pt>
+<../Figure/Figure_6.pdf, id=299, 833.02415pt x 413.10435pt>
 File: ../Figure/Figure_6.pdf Graphic file (type pdf)
 <use ../Figure/Figure_6.pdf>
 Package pdftex.def Info: ../Figure/Figure_6.pdf  used on input line 110.
@@ -897,7 +897,7 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 ]
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_7.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_7.pdf, id=355, 833.69867pt x 241.11781pt>
+<../Figure/Figure_7.pdf, id=363, 833.69867pt x 241.11781pt>
 File: ../Figure/Figure_7.pdf Graphic file (type pdf)
 <use ../Figure/Figure_7.pdf>
 Package pdftex.def Info: ../Figure/Figure_7.pdf  used on input line 127.
@@ -907,7 +907,7 @@ Package pdftex.def Info: ../Figure/Figure_7.pdf  used on input line 127.
  <../Figure/Figure_7.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_8.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_8.pdf, id=386, 656.97643pt x 453.57254pt>
+<../Figure/Figure_8.pdf, id=394, 656.97643pt x 453.57254pt>
 File: ../Figure/Figure_8.pdf Graphic file (type pdf)
 <use ../Figure/Figure_8.pdf>
 Package pdftex.def Info: ../Figure/Figure_8.pdf  used on input line 134.
@@ -917,7 +917,7 @@ Package pdftex.def Info: ../Figure/Figure_8.pdf  used on input line 134.
  <../Figure/Figure_8.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ../Figure/Figure_9.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<../Figure/Figure_9.pdf, id=420, 606.0502pt x 228.97847pt>
+<../Figure/Figure_9.pdf, id=428, 606.0502pt x 228.97847pt>
 File: ../Figure/Figure_9.pdf Graphic file (type pdf)
 <use ../Figure/Figure_9.pdf>
 Package pdftex.def Info: ../Figure/Figure_9.pdf  used on input line 141.
@@ -925,6 +925,34 @@ Package pdftex.def Info: ../Figure/Figure_9.pdf  used on input line 141.
 [12
 
  <../Figure/Figure_9.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ../Figure/Figure_10.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../Figure/Figure_10.pdf, id=458, 744.32578pt x 289.67923pt>
+File: ../Figure/Figure_10.pdf Graphic file (type pdf)
+<use ../Figure/Figure_10.pdf>
+Package pdftex.def Info: ../Figure/Figure_10.pdf  used on input line 148.
+(pdftex.def)             Requested size: 342.2953pt x 133.21428pt.
+[13
+
+ <../Figure/Figure_10.pdf>]
+
+pdfTeX warning: pdflatex.exe (file ../Figure/Figure_11.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../Figure/Figure_11.pdf, id=489, 373.00554pt x 193.2319pt>
+File: ../Figure/Figure_11.pdf Graphic file (type pdf)
+<use ../Figure/Figure_11.pdf>
+Package pdftex.def Info: ../Figure/Figure_11.pdf  used on input line 163.
+(pdftex.def)             Requested size: 171.14764pt x 88.66072pt.
+
+
+pdfTeX warning: pdflatex.exe (file ../Figure/Figure_12.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<../Figure/Figure_12.pdf, id=490, 653.9411pt x 163.89331pt>
+File: ../Figure/Figure_12.pdf Graphic file (type pdf)
+<use ../Figure/Figure_12.pdf>
+Package pdftex.def Info: ../Figure/Figure_12.pdf  used on input line 163.
+(pdftex.def)             Requested size: 171.14764pt x 42.89134pt.
+[14
+
+ <../Figure/Figure_11.pdf> <../Figure/Figure_12.pdf>]
 \tf@nav=\write7
 \openout7 = `main.nav'.
 
@@ -936,21 +964,21 @@ Package pdftex.def Info: ../Figure/Figure_9.pdf  used on input line 141.
 
  (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AD15E18DDFCC2DAD43E7D108FFB310B4;236.
+(rerunfilecheck)             Checksum: 2EE40032AEF52115EE3CC23BEEF4C516;311.
  ) 
 Here is how much of TeX's memory you used:
- 23829 strings out of 478353
- 461179 string characters out of 5852100
+ 23872 strings out of 478353
+ 462084 string characters out of 5852100
  732060 words of memory out of 5000000
- 41361 multiletter control sequences out of 15000+600000
- 429550 words of font info for 117 fonts, out of 8000000 for 9000
+ 41394 multiletter control sequences out of 15000+600000
+ 431309 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,122p,1025b,622s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmaf.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmba.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbe.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcd.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmce.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd6.pfb>
-Output written on main.pdf (12 pages, 1166284 bytes).
+<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmac.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmad.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmae.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmaf.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmb9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmba.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbb.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmbe.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc6.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmc9.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcc.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmcd.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmce.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd0.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd1.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd2.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd3.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd4.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanumgtmd6.pfb>
+Output written on main.pdf (14 pages, 1315895 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 470 compressed objects within 5 object streams
- 28 named destinations out of 1000 (max. 500000)
- 160 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 693 PDF objects out of 1000 (max. 8388607)
+ 538 compressed objects within 6 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
