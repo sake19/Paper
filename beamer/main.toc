@@ -1,5 +1,0 @@
-\beamer@sectionintoc {2}{전체구조}{3}{0}{1}
-\beamer@subsectionintoc {2}{1}{hello world!}{4}{0}{1}
-\beamer@subsectionintoc {2}{2}{서브섹션을 가르면 진도표에 반영됨}{12}{0}{1}
-\beamer@sectionintoc {3}{다른 섹션}{13}{0}{2}
-\beamer@subsectionintoc {3}{1}{Practice2 - chmod}{14}{0}{2}
