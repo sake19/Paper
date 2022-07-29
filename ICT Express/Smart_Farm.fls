@@ -1,8 +1,8 @@
-PWD C:/Users/Minwoo/Workspace_Latex/Paper/ICT Express
+PWD C:/Users/Minwoo/Documents/Paper/ICT Express
 INPUT c:/texlive/2021/texmf.cnf
 INPUT c:/texlive/2021/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Minwoo/Workspace_Latex/Paper/ICT Express/Smart_Farm.tex
+INPUT c:/Users/Minwoo/Documents/Paper/ICT Express/Smart_Farm.tex
 OUTPUT Smart_Farm.log
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2021/texmf-dist/tex/latex/base/article.cls
@@ -632,6 +632,7 @@ INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd3.tfm
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmcf.tfm
 INPUT c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd7.tfm
+INPUT c:/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT Smart_Farm.aux
 INPUT ./Smart_Farm.out
 INPUT ./Smart_Farm.out
